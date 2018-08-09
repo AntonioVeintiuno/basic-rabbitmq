@@ -1,0 +1,23 @@
+{
+  "name": "basic-rabbitmq",
+  "version": "1.0.0",
+  "description": "exmple to first tutorial on rabbitMQ",
+  "main": "receive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioVeintiuno/basic-rabbitmq.git"
+  },
+  "author": "Antonio Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonioVeintiuno/basic-rabbitmq/issues"
+  },
+  "homepage": "https://github.com/AntonioVeintiuno/basic-rabbitmq#readme",
+  "dependencies": {
+    "amqp": "^0.2.7",
+    "amqplib": "^0.5.2"
+  }
+}
